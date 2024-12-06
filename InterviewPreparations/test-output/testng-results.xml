@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-06T19:25:50 IST" name="Default suite" finished-at="2024-12-06T19:25:58 IST" duration-ms="7961">
+  <suite started-at="2024-12-07T00:45:36 IST" name="Default suite" finished-at="2024-12-07T00:45:53 IST" duration-ms="16935">
     <groups>
     </groups>
-    <test started-at="2024-12-06T19:25:50 IST" name="Default test" finished-at="2024-12-06T19:25:58 IST" duration-ms="7961">
+    <test started-at="2024-12-07T00:45:36 IST" name="Default test" finished-at="2024-12-07T00:45:53 IST" duration-ms="16935">
       <class name="testcases.LoginFunctionalityWithDataProvider">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@323b36e0]" started-at="2024-12-06T19:25:50 IST" name="setup" finished-at="2024-12-06T19:25:54 IST" duration-ms="3701" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@294425a7]" started-at="2024-12-07T00:45:36 IST" name="setup" finished-at="2024-12-07T00:45:40 IST" duration-ms="3678" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validatingLoginWithDifferentUserData()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@323b36e0]" started-at="2024-12-06T19:25:54 IST" name="validatingLoginWithDifferentUserData" finished-at="2024-12-06T19:25:57 IST" duration-ms="3582" status="PASS">
+        <test-method signature="validatingLoginWithDifferentUserData()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@294425a7]" started-at="2024-12-07T00:45:40 IST" name="validatingLoginWithDifferentUserData" finished-at="2024-12-07T00:45:52 IST" duration-ms="12165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatingLoginWithDifferentUserData -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@323b36e0]" started-at="2024-12-06T19:25:57 IST" name="tearDown" finished-at="2024-12-06T19:25:58 IST" duration-ms="622" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@294425a7]" started-at="2024-12-07T00:45:52 IST" name="tearDown" finished-at="2024-12-07T00:45:53 IST" duration-ms="1059" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
