@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-06T16:30:20 IST" name="Default suite" finished-at="2024-12-06T16:30:42 IST" duration-ms="22174">
+  <suite started-at="2024-12-06T19:25:50 IST" name="Default suite" finished-at="2024-12-06T19:25:58 IST" duration-ms="7961">
     <groups>
     </groups>
-    <test started-at="2024-12-06T16:30:20 IST" name="Default test" finished-at="2024-12-06T16:30:42 IST" duration-ms="22174">
-      <class name="testcases.LoginFunctionalityWithScreenshotInExtentReport">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginFunctionalityWithScreenshotInExtentReport@323b36e0]" started-at="2024-12-06T16:30:20 IST" name="setup" finished-at="2024-12-06T16:30:29 IST" duration-ms="9032" status="PASS">
+    <test started-at="2024-12-06T19:25:50 IST" name="Default test" finished-at="2024-12-06T19:25:58 IST" duration-ms="7961">
+      <class name="testcases.LoginFunctionalityWithDataProvider">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@323b36e0]" started-at="2024-12-06T19:25:50 IST" name="setup" finished-at="2024-12-06T19:25:54 IST" duration-ms="3701" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validateLoginFunctionalityWithScreenshotInExtentReport()[pri:0, instance:testcases.LoginFunctionalityWithScreenshotInExtentReport@323b36e0]" started-at="2024-12-06T16:30:29 IST" name="validateLoginFunctionalityWithScreenshotInExtentReport" finished-at="2024-12-06T16:30:41 IST" duration-ms="11691" status="PASS">
+        <test-method signature="validatingLoginWithDifferentUserData()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@323b36e0]" started-at="2024-12-06T19:25:54 IST" name="validatingLoginWithDifferentUserData" finished-at="2024-12-06T19:25:57 IST" duration-ms="3582" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validateLoginFunctionalityWithScreenshotInExtentReport -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginFunctionalityWithScreenshotInExtentReport@323b36e0]" started-at="2024-12-06T16:30:41 IST" name="tearDown" finished-at="2024-12-06T16:30:42 IST" duration-ms="1393" status="PASS">
+        </test-method> <!-- validatingLoginWithDifferentUserData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginFunctionalityWithDataProvider@323b36e0]" started-at="2024-12-06T19:25:57 IST" name="tearDown" finished-at="2024-12-06T19:25:58 IST" duration-ms="622" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testcases.LoginFunctionalityWithScreenshotInExtentReport -->
+      </class> <!-- testcases.LoginFunctionalityWithDataProvider -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
