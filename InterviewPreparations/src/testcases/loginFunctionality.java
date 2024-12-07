@@ -19,6 +19,7 @@ public class loginFunctionality {
 		driver = new ChromeDriver(option);
 		System.setProperty("webdriver.chrome.driver", "./Driver/chromedriver.exe");
 		driver.manage().window().maximize();
+		
 	}
 	
 	@Test
